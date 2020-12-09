@@ -9,4 +9,4 @@ export function getClue() {
     })
 }
 
-getClue().then(response => console.log(response));
+// getClue().then(response => console.log(response));
